@@ -14,3 +14,5 @@ Currently, two official plugins are available:
 - How to create a jsx components understanded and how to use them.
 - How to import an image
 - How to use the hook **useState**
+- How to use React router dom
+- Layouts sont des composants qui sont presents sur plusieurs pages.
