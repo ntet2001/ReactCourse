@@ -13,6 +13,8 @@ Currently, two official plugins are available:
 ## Components
 - How to create a jsx components understanded and how to use them.
 - How to import an image
-- How to use the hook **useState**
+- How to use the hook **useState** & **useEffect (allow our components to have side-effect)**
 - How to use React router dom (Link, to **for Navigation without reload**)
 - Layouts sont des composants qui sont presents sur plusieurs pages.
+- Data Fetching
+- Loader done

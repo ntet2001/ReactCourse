@@ -12,7 +12,7 @@ const HomePage = () => {
       <HomeCards></HomeCards>
 
       {/* <!-- Browse Jobs --> */}
-      <JobListings></JobListings>
+      <JobListings isHome = {true} limit={3}></JobListings>
 
       {/* view all jobs */}
       <ViewAllJobs></ViewAllJobs>
