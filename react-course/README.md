@@ -18,3 +18,5 @@ Currently, two official plugins are available:
 - Layouts sont des composants qui sont presents sur plusieurs pages.
 - Data Fetching
 - Loader done
+- Proxy added in config file
+- UseParam seen
