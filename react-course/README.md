@@ -20,3 +20,4 @@ Currently, two official plugins are available:
 - Loader done
 - Proxy added in config file
 - UseParam seen
+- useLoaderData
