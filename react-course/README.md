@@ -23,3 +23,4 @@ Currently, two official plugins are available:
 - useLoaderData
 - Add job page done
 - Working with forms
+- UseNavigate for redirection seen
