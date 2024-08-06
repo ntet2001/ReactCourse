@@ -21,3 +21,5 @@ Currently, two official plugins are available:
 - Proxy added in config file
 - UseParam seen
 - useLoaderData
+- Add job page done
+- Working with forms
