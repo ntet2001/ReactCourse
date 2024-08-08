@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "5209",
-      "title": "PHP Developer",
-      "type": "Full-Time",
-      "description": "This is a job for php developpers",
-      "location": "Douala Cameroon",
-      "salary": "$50K - 60K",
-      "company": {
-        "name": "YDG digital",
-        "description": "Young team of dynamic developper",
-        "contactEmail": "manyama@gmail.com",
-        "contactPhone": "695050197"
-      }
     }
   ]
 }

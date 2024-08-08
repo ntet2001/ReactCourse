@@ -24,3 +24,4 @@ Currently, two official plugins are available:
 - Add job page done
 - Working with forms
 - UseNavigate for redirection seen
+- delete job done and toast seen
