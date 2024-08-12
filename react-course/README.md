@@ -25,3 +25,5 @@ Currently, two official plugins are available:
 - Working with forms
 - UseNavigate for redirection seen
 - delete job done and toast seen
+- edit job page done
+- Build Generated for production
